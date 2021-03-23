@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ...Front End Development
 - 🌱 I’m currently learning ...MERN Stack
 - 👯 I’m looking to collaborate on ...Front End Development
-- 🤔 goal 2021 ... to be a Web developer
+- 🤔 goal 2021 ... to be a MERN Stack Web developer
 - 💬 Ask me about ...Any Query
 - 📫 How to reach me: ...https://www.facebook.com/profile.php?id=100021350896902
 - 😄 Pronouns: ...He/Him
