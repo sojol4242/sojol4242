@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>Md Moniruzzaman Sojol, <small>here</small> </h3> 
+<h3> Sojol, <small>here</small> </h3> 
 
 - 🔭 I’m currently working on ...Front End Development
 - 🌱 I’m currently learning ...MERN Stack
