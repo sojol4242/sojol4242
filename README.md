@@ -1,20 +1,21 @@
 ### Hi there 👋
 
 <h3> Sojol, <small>here</small> </h3> 
-
-- 🔭 I’m currently working on ...Front End Development
-- 🌱 I’m currently learning ...MERN Stack
-- 👯 I’m looking to collaborate on ...Front End Development
-- 🤔 goal 2021 ... to be a MERN Stack Web developer
-- 💬 Ask me about ...Any Query
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Everything is fare 
---> 
+```
+- 🔭 I’m currently working on Front End Development
+- 🌱 I’m currently learning MERN Stack
+- 👯 I’m looking to collaborate on Front End Development 
+- 🎯 2021 Goals: I don't know
+- 💬 Ask me anything you want
+- ⚡ Fun Fact: Travelling is love ✈
+```
+ 
 
 ## Connect with Me
 
+[![Linkedin Follow](https://img.shields.io/badge/Linkedin-follow-Blue)](https://www.linkedin.com/in/moniruzzaman-eee/)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/profile.php?id=100021350896902)
-[![Linked Follow](https://img.shields.io/badge/Stack%20Overflow-Questions-orange)](https://www.linkedin.com/in/moniruzzaman-eee/)
+
 
 ##Statistics on Github
 
