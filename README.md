@@ -1,5 +1,5 @@
 ![Banner](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
-![Banner](https://github.com/nirala96/nirala96/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif)
+ 
 
 ### Hi there 👋
 <h3> Sojol, <small>here</small> </h3> 
