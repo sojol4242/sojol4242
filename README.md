@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/W35Dp5g/aaron-boris-Vxb-MTmt-RG5-Q-unsplash.jpg)
+![Banner](https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif)
 
 ### Hi there 👋
 <h3> Sojol, <small>here</small> </h3> 
