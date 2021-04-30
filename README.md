@@ -1,14 +1,15 @@
-### Hi there 👋
+![Banner](https://i.ibb.co/W35Dp5g/aaron-boris-Vxb-MTmt-RG5-Q-unsplash.jpg)
 
+### Hi there 👋
 <h3> Sojol, <small>here</small> </h3> 
-```
+
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Front End Development 
 - 🎯 2021 Goals: I don't know
 - 💬 Ask me anything you want
 - ⚡ Fun Fact: Travelling is love ✈
-```
+
  
 
 ## Connect with Me
