@@ -41,9 +41,8 @@
 <br />
 </p>
  
-  
 
- 
+ ## Git Statistics  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sojol4242&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Sojol" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sojol4242&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Sojol" /></p> 
