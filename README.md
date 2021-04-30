@@ -12,7 +12,9 @@
 - ⚡ Fun fact: ...Everything is fare 
 --> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sojol4242&&show_icons=true&title_color=#000&icon_color=bb2acf&text_color=daf7dc&bg_color=#fff" slt="profile stats"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sojol4242&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="coderdaiyan" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sojol4242&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="coderdaiyan" /></p>
  
 
  
