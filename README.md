@@ -24,6 +24,44 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sojol4242&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Sojol" /></p>
  
+## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗖</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖++</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/cpp.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>React.js</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+  </tbody>
+</table> 
 
  
 
