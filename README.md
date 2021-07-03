@@ -17,20 +17,14 @@
 
 
 
-<a href="https://twitter.com/holdmypotionn">
-  <img align="left" alt="Rahul Sharma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="httpshttps://twitter.com/MdMonir09411691">
+  <img align="left" alt="Sojol | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/holdmypotion/">
-  <img align="left" alt="Rahul's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/moniruzzaman-eee/">
+  <img align="left" alt="Sojol's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/holdmypotion">
-  <img align="left" alt="Rahul's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/holdmypotion/">
-  <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/holdmypotion/">
-  <img align="left" alt="Rahul's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+ <a href="https://md-moniruzzaman.netlify.app/">
+  <img align="left" alt="Sojol's Porfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg" />
 </a>
 
 <br />
