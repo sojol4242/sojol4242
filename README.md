@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Front End Development 
-- 🎯 2021 Goals: I don't know
+- 🎯 2021 Goals: Anything will be happens
 - 💬 Ask me anything you want
 - ⚡ Fun Fact: Travelling is love ✈
 
