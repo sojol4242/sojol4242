@@ -13,47 +13,29 @@
 
  
 
-## Connect with Me
+## `Connect with Me`
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://md-moniruzzaman-325b4.web.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moniruzzaman-eee/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MdMonir09411691)
 
-
-
-<a href="httpshttps://twitter.com/MdMonir09411691">
-  <img align="left" alt="Sojol | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/moniruzzaman-eee/">
-  <img align="left" alt="Sojol's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
- <a href="https://md-moniruzzaman.netlify.app/">
-  <img align="left" alt="Sojol's Porfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg" />
-</a>
 
 <br />
 <br />
 
-
-
- ## Tools I Use
-
- 
-
+## `Tools I Use`
 <p>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
- 
-
 <br />
 <br />
  
-</p>
  
- ## Language and Framework I Can 
-
- <p>
  
-
+ ## `Whhat I Can` 
  
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -67,14 +49,12 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/android/android.png" />
 
-
-
 <br />
 <br />
  
 </p>
 
- ## Git Statistics  
+ ## `Git Statistics`  
 <br />
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sojol4242&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Sojol" /></p>
