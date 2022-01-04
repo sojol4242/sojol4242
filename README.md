@@ -43,7 +43,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/android/android.png" />
 <br /> 
  ## `Stats`  
-<br />
+
 <a href="https://github.com/sojol4242/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sojol4242&show_icons=true&theme=radical" />
 </a>
