@@ -50,9 +50,13 @@
 <br />  
 
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<br /> 
+<br />
  <!-- chart -->
 <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sojol4242&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
-<p align="left">
+<br /> 
+<br />
+<p align="center">
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=sojol4242&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=sojol4242&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
