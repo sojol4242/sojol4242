@@ -49,7 +49,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/android/android.png" />
 <br /> 
  &nbsp;**This week I spent my time on**
-                  ![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?   username=sojol4242&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?   username=sojol4242&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
  <!-- chart -->
 <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sojol4242&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
 
