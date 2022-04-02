@@ -36,6 +36,7 @@
  
  ## `What I Can` 
  
+<p align="center">
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -47,11 +48,12 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/android/android.png" />
+</p>
 <br /> 
- <div aling="left"><p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=sojol4242&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=sojol4242&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
-</p></div>
+<p align="center">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=sojol4242&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=sojol4242&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+</p>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
  <!-- chart -->
 <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sojol4242&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
