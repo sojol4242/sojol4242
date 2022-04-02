@@ -11,6 +11,8 @@
 - 💬 Ask me anything you want
 - ⚡ Fun Fact: Travelling is love ✈
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+this+is++SOJOL...💻;But+you+Can+Call+Me...;Programming+Lover...❤;Thank+you+so+much+for;Following+my+GitHub🥰)](https://md-moniruzzaman-325b4.web.app/)
  
 ## `Connect with Me`
 ## 🔗 Links
