@@ -2,7 +2,7 @@
  
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<h3> [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+this+is++SOJOL...💻;But+you+Can+Call+Me...;Programming+Lover...❤;Thank+you+so+much+for;Following+my+GitHub🥰)](https://md-moniruzzaman-325b4.web.app/)</h3> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FFF8C4&center=true&width=500&lines=Hi,+This+is++SOJOL...💻;But+You+Can+Call+Me...;Programming+Lover...❤;Thank+you+so+much+for;Following+my+GitHub🥰)](https://md-moniruzzaman-325b4.web.app/)
 
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning MERN Stack
