@@ -14,8 +14,8 @@
 <div align="center">
 <!--- portfolio launch image --->
 <a href="https://md-moniruzzaman-325b4.web.app/">
-  <img height="300" src="srity/coder_husbend.png"/>
-  <img height="300" src="srity/coder_wife.png"/>
+  <img height="300" src="https://i.ibb.co/MnsBMx0/coder-husbend.png"/>
+  
 </div>
  
 ## `Connect with Me`
