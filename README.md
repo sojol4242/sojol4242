@@ -11,7 +11,7 @@
 - 💬 Ask me anything you want
 - ⚡ Fun Fact: Travelling is love ✈
 
-<div align="center">
+<div align="left">
 <!--- portfolio launch image --->
 <a href="https://md-moniruzzaman-325b4.web.app/">
   <img height="300" src="https://i.ibb.co/MnsBMx0/coder-husbend.png"/>
