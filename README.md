@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50%" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Moniruzzaman Sojol</h1>
@@ -74,7 +74,7 @@
 ## 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sojol4242/sojol4242/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
