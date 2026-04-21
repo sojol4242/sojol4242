@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Moniruzzaman Sojol</h1>
@@ -27,7 +27,7 @@
 ## 🌐 Portfolio & Professional Links
 
 <p align="left">
-  <a href="https://md-moniruzzaman-325b4.web.app/">
+  <a href="https://v0-moniruzzaman.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
   
