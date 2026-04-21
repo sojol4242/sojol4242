@@ -101,11 +101,11 @@
 ## 📬 Contact Me
 
 <p align="left">
-  📧 **Email:** sojol.bsmrstu.eee@gmail.com  
-  🌐 **Portfolio:** https://md-moniruzzaman-325b4.web.app/  
-  💼 **LinkedIn:** https://www.linkedin.com/in/moniruzzaman-eee/  
-  💻 **GitHub:** https://github.com/sojol4242  
-  📍 **Location:** KUET, Khulna, Bangladesh  
+  📧 **Email: sojol.bsmrstu.eee@gmail.com  ** 
+  🌐 **Portfolio: https://md-moniruzzaman-325b4.web.app/  ** 
+  💼 **LinkedIn: https://www.linkedin.com/in/moniruzzaman-eee/  ** 
+  💻 **GitHub: https://github.com/sojol4242**   
+  📍 **Location: KUET, Khulna, Bangladesh ** 
 </p>
 
 ---
