@@ -71,13 +71,6 @@
 
 ---
 
-## 📈 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sojol4242/sojol4242/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -89,11 +82,7 @@
 
 ---
 
-## 📉 Contribution Graph
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sojol4242&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" />
-</p>
 
 ---
 
